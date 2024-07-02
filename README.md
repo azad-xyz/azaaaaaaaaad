@@ -21,7 +21,7 @@ I look forward to collaborating with you and contributing to your next web devel
 
 <br>
 <p align="center">
-<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/JavaScript.png)"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/JavaScript.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 </p>
