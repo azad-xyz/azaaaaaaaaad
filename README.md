@@ -17,6 +17,15 @@ I look forward to collaborating with you and contributing to your next web devel
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=azaaaaaaaaad&amp;show_icons=true" alt="GitHub Stats"></p>
 
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=azaaaaaaaaad&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+
 ## :computer: Technologies that I know
 
 <br>
