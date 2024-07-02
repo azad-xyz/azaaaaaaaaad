@@ -9,7 +9,7 @@ I thrive on challenges that push me to explore new possibilities in web developm
 
 Beyond coding, I enjoy staying updated with industry trends and best practices, attending webinars, and contributing to open-source projects. These activities fuel my passion for continuous learning and improvement in my craft.
 
-If you're looking for a front-end developer who combines technical expertise with a creative flair and a commitment to quality, let's connect! You can find me on [LinkedIn/GitHub/Portfolio Link](https://www.linkedin.com/in/azaaaaaaaaad/), where I showcase my latest projects and contributions.
+If you're looking for a front-end developer who combines technical expertise with a creative flair and a commitment to quality, let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/azaaaaaaaaad/), where I showcase my latest projects and contributions.
 
 I look forward to collaborating with you and contributing to your next web development endeavor!</p>
 
