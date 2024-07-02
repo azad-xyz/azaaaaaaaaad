@@ -1,10 +1,8 @@
 <img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/banner.png" alt="Azad GitHub README header image">
 <a href="https://www.facebook.com/azaaaaaaaaad"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/azaaaaaaaaad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/azaaaaaaaaad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/self-host-your-nuxt-app-with-coolify>Self-Host Your Nuxt App With Coolify</a></li><li><a href=https://mokkapps.de/blog/simpler-two-way-binding-in-vue-with-define-model>Simpler Two-Way Binding in Vue With defineModel</a></li><li><a href=https://mokkapps.de/blog/login-at-supabase-via-rest-api-in-playwright-e2e-test>Login at Supabase via REST API in Playwright E2E Test</a></li><li><a href=https://mokkapps.de/blog/use-nitro-as-mock-server>Use Nitro as Mock Server</a></li><li><a href=https://mokkapps.de/blog/unlocking-the-power-of-v-for-loops-in-vue-with-these-useful-tips>Unlocking the Power of v-for Loops in Vue With These Useful Tips</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
+<h2>About Me</h2>
+<p>Hello, I'm Mohammad Azad, a passionate beginner front-end developer with a focus on creating responsive and intuitive user interfaces. I have a solid foundation in HTML, CSS, and JavaScript, and I'm currently exploring advanced techniques with React.js and utilizing Tailwind CSS for efficient styling.</p>
+
 <h2>Latest Newsletter Issues</h2>
   <ul>
     <li><a href=https://weekly-vue.news/issues/152>Weekly Vue News #152 - Self-Host Your Nuxt App With Coolify</a></li><li><a href=https://weekly-vue.news/issues/151>Weekly Vue News #151 - Cache Component Instances With the KeepAlive Component</a></li><li><a href=https://weekly-vue.news/issues/150>Weekly Vue News #150 - Change Status Code of the Response in Nuxt</a></li><li><a href=https://weekly-vue.news/issues/149>Weekly Vue News #149 - NuxtHub: A deployment and administration platform for Nuxt</a></li><li><a href=https://weekly-vue.news/issues/148>Weekly Vue News #148 - How I Write Class & Style Bindings</a></li>
