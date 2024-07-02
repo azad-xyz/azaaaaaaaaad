@@ -23,17 +23,17 @@ I look forward to collaborating with you and contributing to your next web devel
 <p align="center">
 <img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/HTML.png"/>
 <img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/JavaScript.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/react.png"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/tailwind.png"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/firebase.png"/>
 </p>
 <p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/node.png"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/express.png"/>
+<img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/icons/mongo.png"/>
 </p><br/>
 
 
