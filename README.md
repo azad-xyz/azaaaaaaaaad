@@ -1,7 +1,7 @@
 <img src="https://github.com/azaaaaaaaaad/azaaaaaaaaad/blob/main/banner.png" alt="Azad GitHub README header image">
 <a href="https://www.facebook.com/azaaaaaaaaad"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/azaaaaaaaaad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/azaaaaaaaaad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <h2>About Me</h2>
-<p>Hello, I'm Mohammad Azad, a passionate beginner front-end developer with a focus on creating responsive and intuitive user interfaces. I have a solid foundation in HTML, CSS, and JavaScript, and I'm currently exploring advanced techniques with React.js and utilizing Tailwind CSS for efficient styling.</p>
+<p>Hello, I'm Mohammad Azad, a passionate beginner front-end developer with a focus on creating responsive and intuitive user interfaces. I have a solid foundation in HTML, CSS, and JavaScript, React.js and Tailwind CSS for efficient styling.</p>
 
 <h2>Latest Newsletter Issues</h2>
   <ul>
