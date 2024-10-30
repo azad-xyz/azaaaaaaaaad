@@ -2,7 +2,6 @@
 <p align="center"><a href="https://www.facebook.com/azaaaaaaaaad"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/azaaaaaaaaad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/azaaaaaaaaad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 <h2>About Me</h2>
 <p> I'm Mohammad Azad, a passionate front-end developer specializing in crafting engaging and user-friendly web experiences. With a solid foundation in HTML, CSS, and JavaScript, I bring creativity and technical expertise to every project I work on.
-(68747470733a2f2f7777772e6368617270656e692e636f6d2f7374617469632f696d616765732f6172726f772d66756e6374696f6e732d696e2d636c6173732d70726f706572746965732d6d696768742d6e6f742d62652d61732d67726561742d61732d77652d7468696.gif)
 
 My journey began with a fascination for web technologies, I've honed my skills in building responsive layouts, styling with CSS preprocessors like Tailwind CSS for efficient design implementation, and leveraging JavaScript to create dynamic and interactive user interfaces.
 
