@@ -1,4 +1,4 @@
-<img src="https://github.com/azad-xyz/azaaaaaaaaad/blob/main/banner.png" alt="Azad GitHub README header image">
+<img src="https://github.com/azad-xyz/azad-xyz/blob/main/banner.png" alt="Azad GitHub README header image">
 <p align="center"><a href="https://www.facebook.com/azaaaaaaaaad"><img src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/azaaaaaaaaad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/azaaaaaaaaad/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 <h2>About Me</h2>
 <p> I'm Mohammad Azad, a passionate front-end developer specializing in crafting engaging and user-friendly web experiences. With a solid foundation in HTML, CSS, and JavaScript, I bring creativity and technical expertise to every project I work on.
