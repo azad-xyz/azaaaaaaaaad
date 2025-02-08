@@ -15,13 +15,13 @@ I look forward to collaborating with you and contributing to your next web devel
 
 
 <h2>GitHub Stats</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=azaaaaaaaaad&amp;show_icons=true" alt="GitHub Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=azad-xyz&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
 <h2>Commit Count / Daily Streak</h2>
 <br />
 <p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=azaaaaaaaaad" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=azad-xyz" />
 </p>
 
 
